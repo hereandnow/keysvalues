@@ -1,6 +1,6 @@
 # keysvalues [![Build Status](https://travis-ci.org/hereandnow/keysvalues.svg?branch=master)](https://travis-ci.org/hereandnow/keysvalues)
 
-> My funkadelic module
+> return sorted keys and values from an object
 
 
 ## Install
