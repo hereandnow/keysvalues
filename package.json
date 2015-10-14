@@ -1,0 +1,36 @@
+{
+  "name": "keysvalues",
+  "version": "0.0.1",
+  "description": "return sorted keys and values from an object",
+  "license": "MIT",
+  "repository": "hereandnow/keysvalues",
+  "author": {
+    "name": "hereandnow",
+    "email": "hereandnow78@googlemail.com",
+    "url": "bastianbehrens.de"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "keys", "values"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "xo": "^0.9.0"
+  },
+  "xo": {
+    "space": true,
+    "envs": [
+      "node",
+      "mocha"
+    ]
+  }
+}
